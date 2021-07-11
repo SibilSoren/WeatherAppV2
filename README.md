@@ -1,5 +1,9 @@
 
-## Weather App project 
+# Weather App project 
+
+## Live link of the project
+
+[Weather App](https://sibilsoren.github.io/WeatherAppV2/)
 
 ### I have used Bootstrap in this project, HTML , CSS and JavaScript in this project
 
@@ -20,6 +24,4 @@ But there Dark Sky API service is down now, The service will continue until the 
 You can visit to below website.
 [Dark Sky](https://darksky.net/dev)
 
-Live link of the project
 
-https://sibilsoren.github.io/WeatherAppV2/
