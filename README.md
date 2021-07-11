@@ -1,8 +1,8 @@
-# WeatherAppV2
 
-##Weather App project 
 
-###I have used Bootstrap in this project, HTML , CSS and JavaScript in this project
+## Weather App project 
+
+### I have used Bootstrap in this project, HTML , CSS and JavaScript in this project
 
 Although there we should not use bootstrap for this small project, but it always saves time during devlopment, we dont have to create every style on our own , we can modify every style on top of the bootstrap according to out requirment.
 
@@ -14,7 +14,7 @@ This is the one of the best free API to get the weather data, there are other al
 ![alt text](./images/darkSky.png)
 
 
-But there Dark Sky API service is down now, The service will continue until the end of ###2022
+But there Dark Sky API service is down now, The service will continue until the end of 2022
 
 You can visit to below website.
 [a link](https://darksky.net/dev)
