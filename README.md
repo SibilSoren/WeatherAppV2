@@ -5,6 +5,9 @@
 
 [Weather App](https://sibilsoren.github.io/WeatherAppV2/)
 
+
+![alt text](./images/AppScreenshot.jpg)
+
 ### I have used Bootstrap in this project, HTML , CSS and JavaScript in this project
 
 Although there we should not use bootstrap for this small project, but it always saves time during devlopment, we dont have to create every style on our own , we can modify every style on top of the bootstrap according to out requirment.
