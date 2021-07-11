@@ -18,6 +18,8 @@ But there Dark Sky API service is down now, The service will continue until the 
 
 You can visit to below website.
 [a link](https://darksky.net/dev)
-Live link of the project
 
+
+
+Live link of the project
 https://sibilsoren.github.io/WeatherAppV2/
