@@ -17,7 +17,7 @@ This is the one of the best free API to get the weather data, there are other al
 But there Dark Sky API service is down now, The service will continue until the end of 2022
 
 You can visit to below website.
-[a link](https://darksky.net/dev)
+[Dark Sky](https://darksky.net/dev)
 
 
 
