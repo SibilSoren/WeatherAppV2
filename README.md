@@ -6,7 +6,7 @@
 [Weather App](https://sibilsoren.github.io/WeatherAppV2/)
 
 
-![alt text](./images/AppScreenshot.jpg)
+![alt text](./images/AppScreenshot.JPG)
 
 ### I have used Bootstrap in this project, HTML , CSS and JavaScript in this project
 
