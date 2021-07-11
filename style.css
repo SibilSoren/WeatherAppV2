@@ -1,0 +1,59 @@
+.main{
+    height: 100vh;
+    background-image: linear-gradient(#9120ba, #4692f0);
+}
+
+.container-fluid{
+    background-color: brown;
+    
+    width: 100%;
+    height: 100%;
+}
+
+.tempText{
+    color: white;
+}
+
+.card  {
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+    background-color: antiquewhite;
+}
+
+.weatherIcon{
+    width: 100px;
+    height: 100px;
+    
+}
+
+.btn-primary{
+   height: 35px;
+   width: 80px;
+}
+
+span{
+    font-size: 2rem;
+    color: white;
+    
+}
+
+#weatherIcon{
+    width: 100px;
+    height: 100px;
+}
+
+.card{
+    background-image: url(./images/bg1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.btn{
+    color: white;
+    border-color: white;
+}
+
+#tempTypeText{
+    color: white;
+}
