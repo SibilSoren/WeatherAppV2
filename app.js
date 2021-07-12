@@ -8,7 +8,7 @@ const searchInput = document.querySelector("#searchInput");
 const searchButton = document.querySelector("#button-addon2");
 
 const API_KEY = `44bf76ab8ce87ca0df758c3dfdfdef63`;
-const proxy = `https://cors-anywhere.herokuapp.com/`;
+
 
 searchButton.addEventListener("click", (e) => {
   e.preventDefault();
@@ -21,7 +21,7 @@ searchButton.addEventListener("click", (e) => {
 const getWeather = async (city) => {
   try {
     const response = await fetch(
-      `${proxy}api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}`
+      `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}`
     );
 
     const weatherData = await response.json();
@@ -40,7 +40,7 @@ window.addEventListener("load", () => {
       long = position.coords.longitude;
       lat = position.coords.latitude;
 
-      const API = `${proxy}api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}&appid=${API_KEY}`;
+      const API = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}&appid=${API_KEY}`;
 
       fetch(API)
         .then((response) => {
